@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.3",
+  "apkUrl": "https://github.com/ChristianFontes/releaseapk/releases/download/1.0.3/Fanatiko_v1.0.3_release.apk",
+  "baseUrl": "https://python-fast-api-lfvm.vercel.app/api/",
+  "baseUrlExterna": "https://pltvhd.com/",
+  "endpointExterna": "diaries.json",
+  "id": 1
+}
