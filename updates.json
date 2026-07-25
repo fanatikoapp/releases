@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.0.7",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.0.8",
   "apkUrl": "https://github.com/fanatikoapp/releases/releases/download/update/Fanatiko_release.apk",
   "baseUrl": "https://python-fast-api-lfvm.vercel.app/api/",
-  "baseUrlExterna": "https://ftvhd.com/",
-  "endpointExterna": "diaries.json",
+  "baseUrlExterna": "https://agenda18.com/",
+  "endpointExterna": "agenda.json",
   "id": 1
 }
